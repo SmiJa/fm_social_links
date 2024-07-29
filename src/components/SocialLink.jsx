@@ -1,9 +1,9 @@
 import React from 'react'
 
-const SocialLink = ({linkText, linkAddress}) => {
+const SocialLink = ({linkText, linkAddress, target}) => {
   return (
     <li>
-      <a href={linkAddress}>{linkText}</a>
+      <a href={linkAddress} target={target}>{linkText}</a>
     </li>
   )
 }

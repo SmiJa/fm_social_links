@@ -1,25 +1,30 @@
 [
   {
+    "id": 0,
     "Link": "https://github.com/SmiJa",
     "LinkText": "Github",
     "icon": "fa-github"
   },
   {
+    "id": 1,
     "Link": "https://codepen.io/JasonSmith",
     "LinkText": "CodePen",
     "icon": "fa-codepen"
   },
   {
+    "id": 2,
     "Link": "https://www.youtube.com/@smija",
     "LinkText": "YouTube",
     "icon": "fa-youtube"
   },
   {
+    "id": 3,
     "Link": "https://www.instagram.com/smija/",
     "LinkText": "Instagram",
     "icon": "fa-instagram"
   },
   {
+    "id": 4,
     "Link": "https://x.com/SmiJa",
     "LinkText": "X",
     "icon": "fa-x-twitter"

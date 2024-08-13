@@ -69,6 +69,11 @@ body {
   color: var(--grey-900);
 }
 
+.user-card nav a:focus {
+  background-color: var(--grey-900);
+  outline: 3px solid var(--green);  
+}
+
 .user-card nav a i {
   padding-right: 8px;
 }

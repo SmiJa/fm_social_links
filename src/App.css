@@ -17,6 +17,11 @@
   --grey-900: hsl(0, 0%, 8%);
 }
 
+#root {
+  width: 90%;
+  max-width: 380px;
+}
+
 body {
   width: 100vw;
   height: 100vh;

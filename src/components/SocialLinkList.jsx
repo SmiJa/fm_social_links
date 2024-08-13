@@ -4,11 +4,11 @@ import SocialLink from './SocialLink'
 
 const SocialLinkList = () => {
   return (
-    <ul>
+    <nav>
       {userLinks.map((index) => (
           <SocialLink key={index.id} linkText={index.LinkText} linkAddress={index.Link} target={"_blank"} icon={index.icon}/>
         ))}
-    </ul>
+    </nav>
   )
 }
 
